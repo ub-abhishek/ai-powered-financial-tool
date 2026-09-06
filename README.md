@@ -2,7 +2,6 @@
 
 **Live Demo**: https://ai-powered-financial-tool-eegvnowwhxasbhnx9ir8bc.streamlit.app/
 
-p**resentation Link**://https://youtu.be/yYZvCMwz3jg ( Youtube ) OR https://drive.google.com/drive/folders/1tar51Xf-LTpQbHPYjsh-cNg9BeAV5Lkh?usp=sharing ( Google drive )
 
                       
 
